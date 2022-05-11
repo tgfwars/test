@@ -15,7 +15,13 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "Suzanne"
+            "name" : "Suzanne",
+            "rotation" : [
+                0,
+                1,
+                0,
+                -1.6292068494294654e-07
+            ]
         }
     ],
     "meshes" : [
